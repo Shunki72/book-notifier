@@ -1,0 +1,12 @@
+{
+  "database_path": "data/新刊通知リスト.xlsx",
+  "google_credentials_path": "data/google_credentials.json",
+  "google_token_path": "data/google_token.json",
+  "google_scopes": [
+    "https://www.googleapis.com/auth/calendar",
+  ],
+  "google_calendar_id": "primary",
+  "google_calendar_color_id": "5",
+  "line_token_path": "data/line_token.json",
+  "timezone": "Asia/Tokyo",
+}
